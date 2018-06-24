@@ -2,11 +2,15 @@
 
 Command-line typing trainer loosely inspired by typeracer. Written in pure C with ncurses. Uses a corpus of texts sourced from Project Gutenberg's plain-text edition of Alice in Wonderland.
 
-[Screenshot](README.d/img1.png1)
-[Screenshot](README.d/img1.png2)
-[Screenshot](README.d/img1.png3)
-[Screenshot](README.d/img1.png4)
-[Screenshot](README.d/img1.png5)
+[Screenshot](README.d/img1.png)
+
+[Screenshot](README.d/img2.png)
+
+[Screenshot](README.d/img3.png)
+
+[Screenshot](README.d/img4.png)
+
+[Screenshot](README.d/img5.png)
 
 Copyright 2018 Adam Richardson
 

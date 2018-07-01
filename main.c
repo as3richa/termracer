@@ -80,7 +80,7 @@ int main(void)
   {
     int ch = getch();
 
-    if(ch == KEY_BACKSPACE || ch == KEY_DC)
+    if(ch == KEY_BACKSPACE || ch == KEY_DC || ch == 127)
     {
       gamestate_backspace(&gs);
     }

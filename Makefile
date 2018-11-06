@@ -1,5 +1,5 @@
 CC=gcc
-CCFLAGS=-Wall -Wextra -Werror -O4 -std=c99
+CCFLAGS=-Wall -Wextra -Werror -O3 -std=c99
 LFLAGS=-lncurses -lm
 
 SOURCES=main.c gamestate.c corpus.c
